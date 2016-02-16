@@ -1,4 +1,4 @@
-## python-random-utilities
+# python-random-utilities
 
 * Simple generic JSON parser (jsonParser/genericJSONParser.py)
 * Simple encryption-decryption program (crypt/pySimpleCrypt.py)
