@@ -1,5 +1,7 @@
 # python-random-utilities
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/908af980d07d4918882fda26b054f382)](https://www.codacy.com/app/anshuljoshi/python-random-utilities?utm_source=github.com&utm_medium=referral&utm_content=anshuljoshi/python-random-utilities&utm_campaign=badger)
+
 * Simple generic JSON parser (jsonParser/genericJSONParser.py)
 * Simple encryption-decryption program (crypt/pySimpleCrypt.py)
 * Command line - Todo (todo/todo)
